@@ -1,1 +1,1 @@
-const fruits = ["Bananas", "Orange", "Apple", "Mango"]; fruits.reverse();
+const fruits = ["Banana", "Orange", "Apple", "Mango"]; fruits.reverse();
